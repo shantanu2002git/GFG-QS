@@ -16,6 +16,7 @@ class Solution
         {
             long double ab = num[i]*1.0/den[i];
             long double bc = (den[i] - num[i])*1.0/den[i];
+            
             if(m.find(bc) != m.end())
                 ans += m[bc];
             m[ab]++;
