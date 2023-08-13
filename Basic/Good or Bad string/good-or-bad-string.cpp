@@ -6,22 +6,31 @@ using namespace std;
 
 // } Driver Code Ends
 // User function template for C++
-
 class Solution {
   public:
-    int isGoodorBad( string s ) {
-    int v=0, c=0;
-    set<char>st{'a','e','i','o','u'};
-    for ( const char i : s ) {
-        if ( i == '?' ) ++v, ++c;
-        else if ( st.count(i) ) ++v, c = 0;
-        else ++c, v = 0;
-        if ( v > 5 || c > 3 ) return 0;
+    int isGoodorBad(string s) {
+       int n=s.size();
+       int vl=0,cs=0,qs=0,bol=1,con=0;
+       set<char>st{'a','e','i','o','u'};
+       for(int i=0; i<n; i++){
+          
+          if(s[i]=='?'){
+            cs++;
+            vl++;
+           }
+            else if(st.count(s[i])){
+            vl++;
+            cs=0;
+           }else{
+            cs++;vl=0;
+           }
+          if((vl>5) || (cs>3 )){
+            return 0;
+          }
+       }
+       return 1;
     }
-    return 1;
-} // 0.03
 };
-
 
 
 //{ Driver Code Starts.
