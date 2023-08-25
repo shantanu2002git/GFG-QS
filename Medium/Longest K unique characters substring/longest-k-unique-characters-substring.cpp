@@ -10,30 +10,26 @@ using namespace std;
 class Solution{
   public:
     int longestKSubstr(string s, int k) {
-    // your code here
-    int i=0,j=0,n=s.size(),mx=-1;
-    map<char,int>mp;
-    while(i<n){
-        mp[s[i]]++;
-        if(mp.size()==k){
-            mx=max(mx,(i-j+1));
-        }
-        
-        while(mp.size()>k) {
-            mp[s[j]]--;
-            if(mp[s[j]]==0){
-                mp.erase(s[j]);
-            }
-            j++;
-        }
-         if(mp.size()==k){
-            mx=max(mx,(i-j+1));
-        }
-        i++;
+  int i=0,j=0,mx=-1,n=s.size();
+  map<char,int>mp;
+  while(i<n){
+    mp[s[i]]++;
+    while(mp.size()>k){
+      mp[s[j]]--;
+      if(mp[s[j]]==0){
+        mp.erase(s[j]);
+      }
+      j++;
     }
-    return mx;
+    mx=max(mx,i-j+1);
+    i++;
+  }
+  return (mx>=k ? mx : -1);
+    
     }
 };
+
+
 
 //{ Driver Code Starts.
 int main() {
