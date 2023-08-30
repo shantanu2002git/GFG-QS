@@ -86,17 +86,18 @@ struct Node
 /*You are required to complete below method*/
 Node* deleteNode(Node *head,int x)
 {
-   Node * tem=head;
+    Node *tem=head;
+    int cnt=1;
    if(x==1){
-       return tem->next;
+       tem=head->next;
+       return tem;
    }
-   int cnt=0;
    while(tem && tem->next){
-       cnt++;
        if(cnt==x-1){
            tem->next=tem->next->next;
        }
        tem=tem->next;
+       cnt++;
    }
    return head;
 }
