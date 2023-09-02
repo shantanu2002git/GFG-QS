@@ -138,11 +138,12 @@ class Solution
 {
     public:
     //Function to connect nodes at same level.
-    void connect(Node *root)
+     void connect(Node *root)
     {
       queue<Node*>q;
       q.push(root);
       
+      /*
       while(!q.empty()){
           int n=q.size();
           vector<Node*>v;
@@ -159,6 +160,19 @@ class Solution
               v[i]->nextRight=v[i+1];
           }
       }
+      */
+      
+        while(!q.empty()){
+           int n = q.size();
+           for(int i=0; i<n; i++){
+               
+               Node* t = q.front();
+               q.pop();
+               if(t->left) q.push(t->left);
+               if(t->right) q.push(t->right);
+               t->nextRight = (i==n-1 ? NULL : q.front());
+           }
+       }
     }    
       
 };
