@@ -11,6 +11,7 @@ class Solution{
 public:
 
 void calDFS(int x, int y, vector<vector<char>> &mat ,int n, int m){
+    
 if(x<0 || x>=n || y<0 || y>=m || mat[x][y]=='X'){
     return ;
 }
@@ -23,6 +24,7 @@ if(mat[x][y]=='O'){
     calDFS(x,y+1,mat,n,m);
 }
 }
+
     vector<vector<char>> fill(int n, int m, vector<vector<char>> mat)
     {
        for(int i=0; i<n; i++){
@@ -52,14 +54,6 @@ for(int i=0; i<n; i++){
         }
     }
 }
-
-    //    for(auto it : mat){
-    //     for(auto i : it){
-    //         cout<<i<<" ";
-    //     }
-    //     cout<<endl;
-    //    }
-
     return mat;
     }
 };
