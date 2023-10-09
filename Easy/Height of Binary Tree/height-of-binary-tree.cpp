@@ -99,28 +99,19 @@ struct Node
 class Solution{
     public:
     //Function to find the height of a binary tree.
-    int height(struct Node* root){
-        int lvl=1,mx=0;
-        queue<Node*>q;
-        q.push(root);
-        while(!q.empty()){
-            int n=q.size();
-            while(n--){
-                Node* fnt=q.front();
-                q.pop();
-                if(fnt->left==NULL && fnt->right==NULL){
-                   mx=max(mx,lvl);
-                }
-                if(fnt->left){
-                    q.push(fnt->left);
-                }
-                if(fnt->right){
-                    q.push(fnt->right);
-                }
-            }
-            lvl++;
+    int s=0;
+    int cal(Node* node){
+        if(node==NULL){
+            return 0;
         }
-        return mx;
+        
+        int left=cal(node->left);
+        int right=cal(node->right);
+        
+        return max(left,right)+1;
+    }
+    int height(struct Node* node){
+       return cal(node);
     }
 };
 
