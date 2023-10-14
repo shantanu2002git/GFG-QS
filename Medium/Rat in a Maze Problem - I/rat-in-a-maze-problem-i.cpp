@@ -9,38 +9,37 @@ using namespace std;
 // User function template for C++
 
 class Solution{
-public:
-vector<string>ans;
-void solve(int i,int j,vector<vector<int>> &m, int n,string s)
- {
-        if(i<0 || i>=n || j<0 || j>=n || m[i][j]==0)
-           return;
-        if(i==n-1 && j==n-1)
-        {
-            ans.push_back(s);
-            s="";
+    public:
+    vector<string>res;
+    void Backtrack(int i, int j, vector<vector<int>> &mtx, int n, string mov ){
+        if(i>=n || j>=n || i<0 || j<0 || mtx[i][j]==0){
+            return ;
+        }
+        
+        if(i==n-1 && j==n-1){
+            res.push_back(mov);
+            mov="";
             return;
         }
-        m[i][j]=0;
-        solve(i,j+1,m,n,s+"R");
-        solve(i,j-1,m,n,s+"L");
-        solve(i+1,j,m,n,s+"D");
-        solve(i-1,j,m,n,s+"U");
-        m[i][j]=1; //backtrack
+        
+        mtx[i][j]=0;
+        Backtrack(i,j+1,mtx,n,mov+"R");
+        Backtrack(i,j-1,mtx,n,mov+"L");
+        Backtrack(i+1,j,mtx,n,mov+"D");
+        Backtrack(i-1,j,mtx,n,mov+"U");
+        mtx[i][j]=1;
+        
     }
-    
-    vector<string> findPath(vector<vector<int>> &m, int n)
-    {
-        string s="";
-        if(m[0][0]==0 || m[n-1][n-1]==0){
-           return {};
+    vector<string> findPath(vector<vector<int>> &mtx, int n) {
+        string str="";
+        if(mtx[0][0]==0 || mtx[n-1][n-1]==0){
+            return {};
         }
-       
-        solve(0,0,m,n,s);
-        return ans;
+        
+        Backtrack(0,0,mtx,n,str);
+        return res;
     }
 };
-
 
     
 
