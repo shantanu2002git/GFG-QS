@@ -40,7 +40,7 @@ public:
             vector<int> temp;
             freq[a[m]]++;
             top[k] = a[m];
-            auto it = find(top.begin(), top.end() - 1, a[m])-top.begin();
+            auto it = find(top.begin(), top.end(), a[m])-top.begin();
 
             for (int i = it - 1; i >= 0; --i) {
                 if (freq[top[i]] < freq[top[i + 1]])
@@ -60,6 +60,7 @@ public:
         return ans;
     }
 };
+
 
 
 
