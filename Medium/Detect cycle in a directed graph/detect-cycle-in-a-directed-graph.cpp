@@ -3,40 +3,47 @@
 using namespace std;
 
 // } Driver Code Ends
+
+
+
 class Solution {
   public:
     // Function to detect cycle in a directed graph.
     bool isCyclic(int v, vector<int> adj[]) {
-       vector<int>topo;
-       vector<int>indg(v,0);
+        
+        vector<int>in(v,0);
        for(int i=0; i<v; i++){
            for(auto it : adj[i]){
-               indg[it]++;
+               in[it]++;
            }
        }
        
        queue<int>q;
        for(int i=0; i<v; i++){
-           if(indg[i]==0){
-               q.push(i);
+           if(in[i]==0){
+              q.push(i);
            }
        }
-       
+       vector<int>res;
        while(!q.empty()){
-           int fnt=q.front();
+           int nd=q.front();
            q.pop();
-           topo.push_back(fnt);
-           for(auto it : adj[fnt]){
-               indg[it]--;
-               if(indg[it]==0){
+           res.push_back(nd);
+           for(auto it : adj[nd]){
+               in[it]--;
+               if(in[it]==0){
                    q.push(it);
                }
            }
        }
        
-       return (topo.size()!=v);
+       return (res.size()!=v);
     }
 };
+
+
+
+
 
 //{ Driver Code Starts.
 
