@@ -7,27 +7,31 @@ using namespace std;
 //User function Template for C++
 
 class Solution {
-  public:
-    void call(int i, vector<int>&vis,vector<vector<int>>&adj, int v){
-        vis[i]=1;
-        for(int j=0; j<v; j++){
-            if(!vis[j] && adj[i][j]==1){
-                call(j,vis,adj,v);
+public:
+    void call(int nd, vector<vector<int>>& adj, vector<int>& vis) {
+        vis[nd] = 1;
+        for (int i = 0; i < adj[nd].size(); i++) {
+            if (adj[nd][i] == 1 && !vis[i]) {
+                call(i, adj, vis);
             }
         }
     }
-    int numProvinces(vector<vector<int>> adj, int v) {
-      vector<int>vis(v,0);
-      int c=0;
-      for(int i=0; i<v; i++){
-          if(!vis[i]){
-              call(i,vis,adj,v);
-              c++;
-          }
-      }
-      return c;
+
+    int numProvinces(vector<vector<int>>& adj, int V) {
+        vector<int> vis(V, 0);
+        int c = 0, n = V;
+        for (int i = 0; i < n; i++) {
+            if (vis[i] == 0) {
+                call(i, adj, vis);
+                c++;
+            }
+        }
+        return c;
     }
 };
+
+
+
 
 //{ Driver Code Starts.
 
