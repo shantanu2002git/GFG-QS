@@ -13,16 +13,15 @@ class Solution {
     *   V: number of vertices
     */
     vector<int> bellman_ford(int V, vector<vector<int>>& edges, int S) {
+        
        vector<int> dist(V, 1e8);
-        // set distance of the source to 0
         dist[S] = 0;
         
         // now iterate (V-1) times and apply relexation --> Bellman-Ford algorithm
         for(int i=0; i<V-1; i++) {
             for(auto it: edges) {
-                int u = it[0];
-                int v = it[1];
-                int wt = it[2];
+                
+                int u = it[0],v = it[1], wt = it[2];
                 
                 if(dist[u] != 1e8 and dist[u]+wt < dist[v]) {
                     dist[v] = dist[u] + wt;
@@ -33,9 +32,8 @@ class Solution {
         // idealy this is the end and we can return the dist[] as answer
         // but there is a possibilty of negative cycle 
         for(auto it: edges) {
-            int u = it[0];
-            int v = it[1];
-            int wt = it[2];
+            
+            int u = it[0],v = it[1], wt = it[2];
             
             if(dist[u] != 1e8 and dist[u]+wt < dist[v]) {
                 return {-1};
