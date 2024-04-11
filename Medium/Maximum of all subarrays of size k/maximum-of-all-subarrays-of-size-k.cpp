@@ -12,27 +12,28 @@ class Solution
 {
   public:
     //Function to find maximum of each subarray of size k.
-    vector <int> max_of_subarrays(int *arr, int n, int k)
+    vector <int> max_of_subarrays(int *nums, int n, int k)
     {
-       vector<int>res;
-       multiset<int>st;
-       int wind_strt=0;
-       int wind_end=0;
-       while(wind_end<k){
-           st.insert(arr[wind_end++]);
-       }
-       
-       res.push_back(*st.rbegin());
-       while(wind_end<n){
-           st.erase(st.find(arr[wind_strt]));
-           st.insert(arr[wind_end]);
-           res.push_back(*st.rbegin());
-           wind_end++;
-           wind_strt++;
-       }
-       return res;
+        vector<int> result;
+        if (k == 0)
+            return result;
+        priority_queue<pair<int, int>> w;
+        // int n = nums.size();
+        for (int i = 0; i < n; i++) {
+            while (!w.empty() && w.top().second <= i - k) {
+                w.pop();
+            }
+            w.push(make_pair(nums[i], i));
+            if (i >= k - 1) {
+                result.push_back(w.top().first);
+            }
+        }
+        return result;
     }
 };
+
+
+
 
 //{ Driver Code Starts.
 
