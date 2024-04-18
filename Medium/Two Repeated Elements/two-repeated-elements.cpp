@@ -10,19 +10,16 @@ using namespace std;
 
 class Solution {
   public:
-    //Function to find two repeated elements.
-    vector<int> twoRepeated (int arr[], int N) {
-        vector<int> repeat;
-        
-        for(int i = 0; i < N + 2; i++){
-            int idx = abs(arr[i]);
-            if(arr[idx - 1] < 0){
-                repeat.push_back(idx);
-            }
-            arr[idx - 1] *= -1;
-        }
-        
-        return repeat;
+   vector<int> twoRepeated (int arr[], int n) {
+       vector<int>tem(n+1,0);
+       vector<int>res;
+       for(int i=0; i<n+2; i++){
+           if(tem[arr[i]]==1){
+               res.push_back(arr[i]);
+           }
+           tem[arr[i]]=1;
+       }
+       return res;
     }
 };
 
