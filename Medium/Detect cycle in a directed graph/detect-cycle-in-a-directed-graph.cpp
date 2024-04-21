@@ -5,42 +5,49 @@ using namespace std;
 // } Driver Code Ends
 
 
-
 class Solution {
   public:
     // Function to detect cycle in a directed graph.
     bool isCyclic(int v, vector<int> adj[]) {
-        
-        vector<int>in(v,0);
-       for(int i=0; i<v; i++){
-           for(auto it : adj[i]){
-               in[it]++;
+        int n=v;
+        vector<int>in(n,0);
+       for(int i=0; i<n; i++){
+           for(int j : adj[i])
+           {
+               in[j]++;
            }
        }
        
        queue<int>q;
-       for(int i=0; i<v; i++){
+       for(int i=0; i<n; i++){
            if(in[i]==0){
-              q.push(i);
-           }
-       }
-       vector<int>res;
-       while(!q.empty()){
-           int nd=q.front();
-           q.pop();
-           res.push_back(nd);
-           for(auto it : adj[nd]){
-               in[it]--;
-               if(in[it]==0){
-                   q.push(it);
-               }
+               q.push(i);
            }
        }
        
-       return (res.size()!=v);
+       while(!q.empty()){
+           int nx=q.size();
+          while(nx--){
+               int f=q.front();
+               q.pop();
+               
+               for(auto t : adj[f]){
+                   in[t]--;
+                   if(in[t]==0){
+                       q.push(t);
+                  }
+               }
+          }
+       }
+       for(int i=0; i<n; i++){
+           if(in[i]>0){
+               return 1;
+           }
+       }
+       return 0;
+ 
     }
 };
-
 
 
 
