@@ -8,53 +8,50 @@ using namespace std;
 // User function Template for C++
 
 class Solution {
-public:
-    class disjoint_set {
-    public:
-        vector<int> R;
-
-        disjoint_set(int no) : R(no) {
-            iota(R.begin(), R.end(), 0);
+  public:
+  
+    void DFS(vector<vector<int>> &adj,int row,int col,vector<vector<int>> &vis)
+    {
+        int m = adj.size(),n = adj[0].size();
+        vis[row][col] = 1;
+        int dir[5] = {-1,0,1,0,-1};
+        for(int i=0;i<4;i++)
+        {
+            int nrow=row+dir[i],ncol=col+dir[i+1];
+            if(nrow<0 or ncol<0 or nrow>=m or ncol>=n or vis[nrow][ncol]) continue;
+            if(adj[nrow][ncol]==1) DFS(adj,nrow,ncol,vis);
         }
-
-        int find(int nod) {
-            return R[nod] == nod ? nod : R[nod] = find(R[nod]);
-        }
-
-        bool join(int it1, int it2) {
-            it1 = find(it1);
-            it2 = find(it2);
-            if (it1 == it2) {
-                return false;
-            }
-            R[it1] = it2;
-            return true;
-        }
-    };
-
-    vector<int> numOfIslands(int n, int m, vector<vector<int>>& operators) {
-        vector<vector<int>> isln(n, vector<int>(m, 0));
-        vector<int> res;
-        disjoint_set ddn(n * m);
-        int cnt = 0;
-        int dx[4] = {0, 0, 1, -1};
-        int dy[4] = {1, -1, 0, 0};
-        for (auto& it : operators) {
-            int x = it[0], y = it[1];
-            if (isln[x][y] == 1) {
-                res.push_back(cnt);
-                continue;
-            }
-            cnt++;
-            isln[x][y] = 1;
-            for (int k = 0; k < 4; k++) {
-                int nx = dx[k] + x;
-                int ny = dy[k] + y;
-                if (nx >= 0 && nx < n && ny >= 0 && ny < m && isln[nx][ny] == 1 && ddn.join(x * m + y, nx * m + ny)) {
-                    --cnt;
+    }
+    
+    int NoOfIslands(vector<vector<int>> &adj)
+    {
+        int m = adj.size(),n = adj[0].size();
+        vector<vector<int>> vis(m,vector<int> (n,0));
+        int count=0;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(!vis[i][j] and adj[i][j]==1)
+                {
+                    DFS(adj,i,j,vis);
+                    count++;
                 }
             }
-            res.push_back(cnt);
+        }
+        return count;
+    }
+    
+    vector<int> numOfIslands(int n, int m, vector<vector<int>> &operators) 
+    {
+        vector<vector<int>> adj(n,vector<int> (m,0));
+        vector<int> res;
+        for(auto i : operators)
+        {
+            int u=i[0],v=i[1];
+            adj[u][v] = 1;
+            int count = NoOfIslands(adj);
+            res.push_back(count);
         }
         return res;
     }
