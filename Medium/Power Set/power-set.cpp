@@ -4,35 +4,33 @@ using namespace std;
 
 // } Driver Code Ends
 
-class Solution
-{
+
+class Solution {
 public:
-    void call(int idx, int n, string in, string s, vector<string> &res)
-    {
-        if (idx == n)
-        {
-           if (!in.empty()) // is not empty before adding to res
+    vector<string> res;
+
+    void call(int i, int n, string s, string in) {
+        if (i == n) {
+            if (!in.empty()) {
                 res.push_back(in);
+            }
             return;
         }
-
-        // Include the character at idx
-        in.push_back(s[idx]);
-        call(idx + 1, n, in, s, res);
-        in.pop_back(); 
-        // Exclude the character at idx
-        call(idx + 1, n, in, s, res);
+        in.push_back(s[i]);
+        call(i + 1, n, s, in);
+        in.pop_back();
+        call(i + 1, n, s, in);
     }
-    vector<string> AllPossibleStrings(string s)
-    {
-        vector<string> res;
+
+    vector<string> AllPossibleStrings(string s) {
         int n = s.size();
-        string in;
-        call(0, n, in, s, res);
-        sort(res.begin(), res.end());
+
+        call(0, n, s, "");
+        sort(res.begin(),res.end());
         return res;
     }
 };
+
 
 
 
