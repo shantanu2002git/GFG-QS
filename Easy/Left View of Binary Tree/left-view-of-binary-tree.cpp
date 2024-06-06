@@ -112,6 +112,8 @@ int main() {
 // } Driver Code Ends
 
 
+
+
 /* A binary tree node
 
 struct Node
@@ -130,32 +132,26 @@ struct Node
 //Function to return a list containing elements of left view of the binary tree.
 vector<int> leftView(Node *root)
 {
-   // Your code here
-   vector<int>v;
-   queue<Node *>q;
-   if(root==NULL)
-   {
-       return v;
-   }
-   q.push(root);
-   while(!q.empty())
-   {
-       Node *temp=q.front();
-       v.push_back(temp->data);
-       int s=q.size();
-       while(s--)
-       {
-           Node *t=q.front();
-           if(t->left!=NULL)
-           {
-               q.push(t->left);
-           }
-           if(t->right)
-           {
-               q.push(t->right);
-           }
-           q.pop();
-       }
-   }
-   return v;
+  queue<Node*>q;
+  vector<int>res;
+  if(root==NULL){
+      return {};
+  }
+  q.push(root);
+  while(!q.empty()){
+      Node *ft=q.front();
+      res.push_back(ft->data);
+      int n=q.size();
+      while(n--){
+          Node *in=q.front();
+          if(in->left){
+              q.push(in->left);
+          }
+          if(in->right){
+              q.push(in->right);
+          }
+          q.pop();
+      }
+  }
+  return res;
 }
