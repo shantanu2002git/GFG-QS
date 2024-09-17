@@ -29,3 +29,19 @@ Feel free to explore the directories for detailed solutions and explanations.
 ## Usage
 
 You can clone this repository and navigate to the specific problem directory to find the solution code. Feel free to use the solutions for learning or reference purposes.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
+## String
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
+<!---LeetCode Topics End-->
