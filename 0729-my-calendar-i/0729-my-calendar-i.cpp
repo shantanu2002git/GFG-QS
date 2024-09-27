@@ -1,30 +1,29 @@
-
-class period {
-public:
-    int start, end;
-    period(int st, int en) {
-        start = st;
-        end = en;
-    }
-};
-
 class MyCalendar {
 public:
-    vector<period> time;
-
+    vector<pair<int, int>> period;
     MyCalendar() {}
-
     bool book(int start, int end) {
-        if (time.empty()) {
-            time.push_back(period(start, end));
+        if (period.empty()) {
+            period.push_back({start, end});
         } else {
-            for (const auto& it : time) {
-                if (start < it.end && end > it.start) {
+            for (auto it : period) {
+                if (start < it.second && it.first < end) {
                     return false;
                 }
             }
+             period.push_back({start, end});
         }
-        time.push_back(period(start, end));
         return true;
     }
 };
+//  for (const auto& it : time) {
+//                 if (start < it.end && end > it.start) {
+//                     return false;
+//                 }
+//             }
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar* obj = new MyCalendar();
+ * bool param_1 = obj->book(start,end);
+ */
