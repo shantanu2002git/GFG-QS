@@ -111,4 +111,12 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/shantanu2002git/GFG-QS/tree/master/3394-minimum-array-end) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
