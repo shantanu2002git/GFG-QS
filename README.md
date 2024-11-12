@@ -42,6 +42,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shantanu2002git/GFG-QS/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -119,4 +120,12 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
