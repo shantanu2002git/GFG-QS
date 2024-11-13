@@ -110,6 +110,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/shantanu2002git/GFG-QS/tree/master/0461-hamming-distance) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/shantanu2002git/GFG-QS/tree/master/3394-minimum-array-end) |
 ## Math
