@@ -61,6 +61,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
+| [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
@@ -143,4 +144,5 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
