@@ -58,6 +58,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
@@ -138,4 +139,5 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
