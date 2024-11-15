@@ -70,6 +70,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
@@ -94,6 +95,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
 |  |
@@ -110,16 +112,19 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Two Pointers
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
