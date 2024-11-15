@@ -35,6 +35,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -42,6 +43,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -140,6 +142,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
