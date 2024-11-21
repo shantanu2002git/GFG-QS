@@ -61,6 +61,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
@@ -113,6 +114,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
