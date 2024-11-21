@@ -27,6 +27,6 @@ public:
         }
 
         // Reverse the elements after breakidx to get the smallest next permutation
-        sort(nums.begin() + breakidx + 1, nums.end());
+        reverse(nums.begin() + breakidx + 1, nums.end());
     }
 };
