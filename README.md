@@ -36,6 +36,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
@@ -67,6 +68,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
@@ -179,4 +181,8 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
