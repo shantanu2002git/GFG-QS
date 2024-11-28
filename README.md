@@ -49,6 +49,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
@@ -142,6 +143,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
@@ -171,6 +173,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
