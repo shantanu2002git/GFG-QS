@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution
 {
 public:
@@ -7,15 +10,16 @@ public:
         int m = grid[0].size();
 
         vector<vector<int>> dis(n, vector<int>(m, INT_MAX));
-      //  vector<vector<long long>> count(n, vector<long long>(m, 0));
+        vector<vector<long long>> count(n, vector<long long>(m, 0));
         queue<pair<int, int>> q;
 
         q.push({0, 0});
         dis[0][0] = 0;
-       // count[0][0] = 1;
+        count[0][0] = 1;
 
         int dx[4] = {1, -1, 0, 0};
         int dy[4] = {0, 0, -1, 1};
+        const long long MOD = 1e9 + 7; // Modulo value to avoid overflow
 
         while (!q.empty())
         {
@@ -32,18 +36,18 @@ public:
                     if (newCost < dis[nwx][nwy])
                     {
                         dis[nwx][nwy] = newCost;
-                     //   count[nwx][nwy] = count[x][y]; // Reset count for new minimum cost
+                        count[nwx][nwy] = count[x][y]; // Reset count for new minimum cost
                         q.push({nwx, nwy});
                     }
                     else if (newCost == dis[nwx][nwy])
                     {
-                      //  count[nwx][nwy] += count[x][y]; // Add paths for equal cost
+                        count[nwx][nwy] = (count[nwx][nwy] + count[x][y]) % MOD; // Add paths for equal cost with modulo
                     }
                 }
             }
         }
 
-      //  cout << count[n - 1][m - 1] << endl; // Number of paths with minimum cost
+        cout << count[n - 1][m - 1] << endl; // Number of paths with minimum cost
         return dis[n - 1][m - 1];            // Minimum cost to reach the endpoint
     }
 };
