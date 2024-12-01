@@ -75,6 +75,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
+| [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
@@ -175,6 +176,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +192,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Sliding Window
@@ -214,6 +217,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Graph
 |  |
