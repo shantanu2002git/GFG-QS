@@ -222,6 +222,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Heap (Priority Queue)
 |  |
@@ -231,4 +232,12 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
