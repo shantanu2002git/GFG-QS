@@ -88,6 +88,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
@@ -195,6 +196,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +206,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Union Find
 |  |
 | ------- |
