@@ -234,6 +234,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3189-find-champion-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
