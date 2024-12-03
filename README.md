@@ -55,6 +55,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shantanu2002git/GFG-QS/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2580-circular-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shantanu2002git/GFG-QS/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -138,6 +139,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -243,4 +245,8 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
