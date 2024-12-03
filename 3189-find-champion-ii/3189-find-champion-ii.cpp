@@ -1,46 +1,35 @@
-
 class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
         vector<int> adj[n];
-        vector<int> inDegree(n, 0);
-
-        // Build adjacency list and in-degree array
+        vector<int> ind(n, 0);
         for (auto it : edges) {
             adj[it[0]].push_back(it[1]);
-            inDegree[it[1]]++;
+            ind[it[1]]++;
         }
-
         queue<int> q;
-        int candidate = -1;
-
-        // Push nodes with in-degree 0 into the queue
+        int newnd = -1;
         for (int i = 0; i < n; i++) {
-            if (inDegree[i] == 0) {
-                if (candidate != -1) { // More than one source
+            if (ind[i] == 0) {
+                if (newnd == -1) {
+                    q.push(i);
+                } else {
                     return -1;
                 }
-                candidate = i;
-                q.push(i);
+                newnd = i;
             }
         }
 
-        // Perform BFS/Topological Sort
-        int processed = 0;
         while (!q.empty()) {
-            int node = q.front();
+            int tp = q.front();
             q.pop();
-            processed++;
-
-            for (auto neighbor : adj[node]) {
-                inDegree[neighbor]--;
-                if (inDegree[neighbor] == 0) {
-                    q.push(neighbor);
+            for (auto i : adj[tp]) {
+                ind[i]--;
+                if (ind[i] == 0) {
+                    q.push(i);
                 }
             }
         }
-
-        // If all nodes are processed and there’s a unique candidate
-        return (q.size()==0) ? candidate : -1;
+        return (q.size() == 0) ? newnd : -1;
     }
 };
