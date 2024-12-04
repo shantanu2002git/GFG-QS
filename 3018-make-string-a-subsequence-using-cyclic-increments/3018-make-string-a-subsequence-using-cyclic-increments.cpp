@@ -10,10 +10,8 @@ public:
         int l = 0;
         for (int i = 0; i < n; i++)
         {
-            if ((st1[i] == st2[l]) || (st2[l] - st1[i]) == 1)
+            if ((st1[i] == st2[l]) || (st2[l] - st1[i]) == 1 || (st1[i]=='z' && st2[l]=='a')) 
             {
-                l++;
-            }else if(st1[i]=='z' && st2[l]=='a'){
                 l++;
             }
         }
