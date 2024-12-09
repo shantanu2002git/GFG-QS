@@ -103,6 +103,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +244,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
+| [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
