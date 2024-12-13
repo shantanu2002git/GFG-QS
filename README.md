@@ -44,6 +44,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -102,6 +103,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
@@ -123,6 +125,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
@@ -242,6 +245,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -271,6 +275,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Shortest Path
 |  |
 | ------- |
