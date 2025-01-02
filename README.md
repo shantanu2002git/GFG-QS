@@ -68,6 +68,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shantanu2002git/GFG-QS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shantanu2002git/GFG-QS/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shantanu2002git/GFG-QS/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -109,6 +110,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -268,6 +270,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 ## Breadth-First Search
