@@ -71,6 +71,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shantanu2002git/GFG-QS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shantanu2002git/GFG-QS/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -111,6 +112,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
@@ -320,4 +322,5 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
