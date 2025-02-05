@@ -116,6 +116,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1755-defuse-the-bomb](https://github.com/shantanu2002git/GFG-QS/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shantanu2002git/GFG-QS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -257,6 +258,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Sliding Window
@@ -289,6 +291,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shantanu2002git/GFG-QS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
