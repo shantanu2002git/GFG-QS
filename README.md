@@ -51,6 +51,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shantanu2002git/GFG-QS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -137,6 +138,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +282,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
