@@ -3,7 +3,8 @@ public:
     int maximumSum(vector<int>& nums) {
         int n = nums.size();
         int res = 0;
-        map<int, int> mps;
+        // map<int, int> mps;
+        int mps[100]={};
         // sort(nums.begin(),nums.end());
         /*
         why we need the sorting think again : 63 = 9, 36 =9 : how do ?
@@ -15,7 +16,8 @@ public:
             for (auto i : si) {
                 ds = ds + (i - '0');
             }
-            if(mps.find(ds)!=mps.end()){
+            // if(mps.find(ds)!=mps.end()){
+                if(mps[ds]>0){
                 res=max(res,(mps[ds]+it) );
             }
             mps[ds]=max(it,mps[ds]);
