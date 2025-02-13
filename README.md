@@ -145,6 +145,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3429-special-array-i) |
@@ -296,6 +297,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/3447-clear-digits) |
 ## Union Find
@@ -336,6 +338,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
