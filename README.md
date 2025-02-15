@@ -246,6 +246,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/0728-self-dividing-numbers) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
