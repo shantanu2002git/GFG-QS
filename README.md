@@ -126,6 +126,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1524-string-matching-in-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/shantanu2002git/GFG-QS/tree/master/1755-defuse-the-bomb) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shantanu2002git/GFG-QS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -278,6 +279,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Matrix
 |  |
 | ------- |
