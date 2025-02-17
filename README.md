@@ -40,6 +40,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/shantanu2002git/GFG-QS/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -67,6 +68,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
+| [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shantanu2002git/GFG-QS/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -94,6 +96,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/shantanu2002git/GFG-QS/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shantanu2002git/GFG-QS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -279,6 +282,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
+| [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Matrix
 |  |
