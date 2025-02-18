@@ -53,6 +53,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -150,6 +151,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2699-count-the-number-of-fair-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
