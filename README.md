@@ -58,6 +58,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shantanu2002git/GFG-QS/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3541-report-spam-message](https://github.com/shantanu2002git/GFG-QS/tree/master/3541-report-spam-message) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3447-clear-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shantanu2002git/GFG-QS/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3541-report-spam-message](https://github.com/shantanu2002git/GFG-QS/tree/master/3541-report-spam-message) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3541-report-spam-message](https://github.com/shantanu2002git/GFG-QS/tree/master/3541-report-spam-message) |
 ## Greedy
 |  |
 | ------- |
