@@ -3,7 +3,7 @@ public:
     void call(string s, int n, vector<string>& arr) {
         if (s.length() == n) {
             arr.push_back(s);
-            s="";
+            // s="";
             return;
         }
 
