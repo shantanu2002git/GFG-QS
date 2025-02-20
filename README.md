@@ -128,6 +128,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/shantanu2002git/GFG-QS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/shantanu2002git/GFG-QS/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -198,6 +199,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/shantanu2002git/GFG-QS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
