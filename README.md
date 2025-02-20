@@ -47,6 +47,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shantanu2002git/GFG-QS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -83,6 +84,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shantanu2002git/GFG-QS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shantanu2002git/GFG-QS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shantanu2002git/GFG-QS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -140,6 +142,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1927-maximum-ascending-subarray-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/shantanu2002git/GFG-QS/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -300,6 +303,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shantanu2002git/GFG-QS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
