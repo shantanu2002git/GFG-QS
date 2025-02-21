@@ -69,6 +69,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
+| [0858-masking-personal-information](https://github.com/shantanu2002git/GFG-QS/tree/master/0858-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
