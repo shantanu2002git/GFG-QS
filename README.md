@@ -74,6 +74,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shantanu2002git/GFG-QS/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
@@ -175,6 +176,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shantanu2002git/GFG-QS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -234,6 +236,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -290,6 +293,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 ## Backtracking
 |  |
 | ------- |
@@ -408,4 +412,12 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/shantanu2002git/GFG-QS/tree/master/2507-number-of-common-factors) |
+## Rolling Hash
+|  |
+| ------- |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
+## Hash Function
+|  |
+| ------- |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 <!---LeetCode Topics End-->
