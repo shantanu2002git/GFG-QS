@@ -36,6 +36,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -116,6 +117,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
@@ -299,6 +301,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
@@ -313,6 +316,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
