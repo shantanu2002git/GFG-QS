@@ -47,6 +47,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1364-tuple-with-same-product](https://github.com/shantanu2002git/GFG-QS/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
+| [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shantanu2002git/GFG-QS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
@@ -229,6 +230,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 ## Segment Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
+| [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -438,6 +441,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
