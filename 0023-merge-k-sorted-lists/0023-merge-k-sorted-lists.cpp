@@ -26,17 +26,23 @@ public: // https://leetcode.com/problems/merge-two-sorted-lists/
             go = go->next;
         }
 
-        while (list1) {
-            go->next = list1;
-            go = go->next;
-            list1 = list1->next;
-        }
+if(list1){
+    go->next=list1;
+}
+if(list2){
+    go->next=list2;
+}
+        // while (list1) {
+        //     go->next = list1;
+        //     go = go->next;
+        //     list1 = list1->next;
+        // }
 
-        while (list2) {
-            go->next = list2;
-            go = go->next;
-            list2 = list2->next;
-        }
+        // while (list2) {
+        //     go->next = list2;
+        //     go = go->next;
+        //     list2 = list2->next;
+        // }
 
         return nwhead->next;
     }
