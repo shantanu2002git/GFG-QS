@@ -406,6 +406,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -456,6 +457,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
@@ -473,5 +475,10 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
