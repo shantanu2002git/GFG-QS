@@ -252,6 +252,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -467,4 +468,8 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
