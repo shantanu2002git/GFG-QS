@@ -257,6 +257,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -272,6 +273,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -313,6 +315,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0021-merge-two-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -487,6 +490,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
