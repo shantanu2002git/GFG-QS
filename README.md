@@ -304,6 +304,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shantanu2002git/GFG-QS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
 | [2507-number-of-common-factors](https://github.com/shantanu2002git/GFG-QS/tree/master/2507-number-of-common-factors) |
+| [2649-count-total-number-of-colored-cells](https://github.com/shantanu2002git/GFG-QS/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
 | ------- |
