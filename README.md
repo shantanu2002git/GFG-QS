@@ -39,6 +39,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -255,6 +256,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -482,6 +484,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 ## Merge Sort
 |  |
 | ------- |
