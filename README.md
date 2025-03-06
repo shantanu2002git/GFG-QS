@@ -255,6 +255,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0086-partition-list) |
@@ -493,6 +494,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
