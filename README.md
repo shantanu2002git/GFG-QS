@@ -61,6 +61,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -178,6 +179,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -311,6 +313,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
 | [2507-number-of-common-factors](https://github.com/shantanu2002git/GFG-QS/tree/master/2507-number-of-common-factors) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shantanu2002git/GFG-QS/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -360,6 +363,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
