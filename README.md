@@ -315,6 +315,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shantanu2002git/GFG-QS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
 | [2507-number-of-common-factors](https://github.com/shantanu2002git/GFG-QS/tree/master/2507-number-of-common-factors) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shantanu2002git/GFG-QS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shantanu2002git/GFG-QS/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -466,6 +467,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/shantanu2002git/GFG-QS/tree/master/2507-number-of-common-factors) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shantanu2002git/GFG-QS/tree/master/2610-closest-prime-numbers-in-range) |
 ## Rolling Hash
 |  |
 | ------- |
