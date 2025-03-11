@@ -137,6 +137,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
@@ -377,6 +378,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shantanu2002git/GFG-QS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/shantanu2002git/GFG-QS/tree/master/1755-defuse-the-bomb) |
@@ -436,6 +438,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -522,4 +525,12 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
