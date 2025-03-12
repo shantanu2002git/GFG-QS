@@ -128,6 +128,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
@@ -199,6 +200,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -265,6 +267,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
