@@ -96,6 +96,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shantanu2002git/GFG-QS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shantanu2002git/GFG-QS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/shantanu2002git/GFG-QS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shantanu2002git/GFG-QS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
@@ -392,6 +393,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shantanu2002git/GFG-QS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/shantanu2002git/GFG-QS/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/shantanu2002git/GFG-QS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
