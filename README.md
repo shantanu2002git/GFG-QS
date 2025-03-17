@@ -43,6 +43,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -121,6 +122,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/shantanu2002git/GFG-QS/tree/master/1364-tuple-with-same-product) |
@@ -149,6 +151,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +227,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -463,6 +467,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -516,6 +521,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
 |  |
@@ -557,4 +563,12 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
