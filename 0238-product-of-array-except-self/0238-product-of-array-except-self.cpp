@@ -21,12 +21,9 @@ public:
             if (mp[0] == 1) {
                 if (nums[i] == 0) {
                     res[i] = (mul);
-                    continue;
-                }
-
-                res[i] = 0;
+                   }
             } else {
-                 res[i] = mul/nums[i];
+                res[i] = mul / nums[i];
             }
         }
         return res;
