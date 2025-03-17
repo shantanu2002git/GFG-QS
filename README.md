@@ -153,6 +153,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/shantanu2002git/GFG-QS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
@@ -438,6 +439,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shantanu2002git/GFG-QS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
