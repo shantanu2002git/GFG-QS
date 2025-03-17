@@ -45,6 +45,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -156,6 +157,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0238-product-of-array-except-self](https://github.com/shantanu2002git/GFG-QS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +235,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -251,6 +254,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
@@ -297,6 +301,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
