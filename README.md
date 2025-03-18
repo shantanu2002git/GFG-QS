@@ -94,6 +94,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0858-masking-personal-information](https://github.com/shantanu2002git/GFG-QS/tree/master/0858-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/shantanu2002git/GFG-QS/tree/master/0926-find-and-replace-pattern) |
+| [1078-remove-outermost-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1170-shortest-common-supersequence) |
@@ -327,6 +328,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shantanu2002git/GFG-QS/tree/master/2021-remove-all-occurrences-of-a-substring) |
