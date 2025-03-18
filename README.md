@@ -79,6 +79,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shantanu2002git/GFG-QS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
@@ -250,6 +251,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/0014-longest-common-prefix) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
