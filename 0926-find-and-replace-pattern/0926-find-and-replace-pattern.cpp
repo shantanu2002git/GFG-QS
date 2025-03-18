@@ -1,5 +1,12 @@
 class Solution {
 public:
+
+/*
+Donot Think about this Useless line : 
+
+A word matches the pattern if there exists a permutation of letters p so that after replacing every letter x in the pattern with p(x), we get the desired word.
+
+*/
     bool valid(string s, string t) {
         int n = s.size(), m = t.size(), smp[256] = {0}, tmp[256] = {0};
 
