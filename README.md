@@ -37,6 +37,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0001-two-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shantanu2002git/GFG-QS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shantanu2002git/GFG-QS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shantanu2002git/GFG-QS/tree/master/0049-group-anagrams) |
@@ -80,6 +81,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shantanu2002git/GFG-QS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shantanu2002git/GFG-QS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
@@ -350,6 +352,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shantanu2002git/GFG-QS/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0263-ugly-number) |
