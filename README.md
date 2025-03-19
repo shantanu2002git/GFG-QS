@@ -171,6 +171,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
@@ -236,6 +237,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -250,6 +252,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0807-custom-sort-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
@@ -320,6 +323,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0151-reverse-words-in-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
