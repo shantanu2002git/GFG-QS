@@ -9,14 +9,11 @@ public:
         sort(s.begin(), s.end());
         int n=g.size(),m=s.size(),i=0,j=0,res=0;
         while(i<n && j<m){
-            if(g[i]>s[j]){
-                j++;
-            }else{
-                res++;
-                s[j]=0;
-                i++;
-            }
+            if (s[j] >= g[i]) {  // If the cookie can satisfy the child
+            i++;  // Move to the next child
         }
-        return res;
+        j++;  
+        }
+        return i;
     }
 };
