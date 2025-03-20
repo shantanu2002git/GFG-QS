@@ -230,6 +230,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3541-report-spam-message](https://github.com/shantanu2002git/GFG-QS/tree/master/3541-report-spam-message) |
 ## Greedy
 |  |
@@ -365,6 +366,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2308-divide-array-into-equal-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2308-divide-array-into-equal-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/shantanu2002git/GFG-QS/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -448,6 +450,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/shantanu2002git/GFG-QS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -484,6 +487,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2691-count-vowel-strings-in-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -595,6 +599,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
