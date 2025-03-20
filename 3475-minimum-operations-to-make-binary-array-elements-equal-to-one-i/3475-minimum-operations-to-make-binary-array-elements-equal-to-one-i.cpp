@@ -11,7 +11,10 @@ public:
             if (nums[i] == 1) {
                 continue;
             } else {
-                flipbit(nums, i);
+                // flipbit(nums, i);
+                for(int j=i; j<i+3; j++){
+                    nums[j]=!nums[j];
+                }
                 res++;
             }
         }
