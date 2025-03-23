@@ -469,6 +469,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -495,12 +496,14 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -523,6 +526,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
+| [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
