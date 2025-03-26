@@ -201,6 +201,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/shantanu2002git/GFG-QS/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shantanu2002git/GFG-QS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shantanu2002git/GFG-QS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -259,6 +260,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shantanu2002git/GFG-QS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shantanu2002git/GFG-QS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shantanu2002git/GFG-QS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -381,6 +383,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shantanu2002git/GFG-QS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shantanu2002git/GFG-QS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2507-number-of-common-factors](https://github.com/shantanu2002git/GFG-QS/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shantanu2002git/GFG-QS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shantanu2002git/GFG-QS/tree/master/2649-count-total-number-of-colored-cells) |
@@ -434,6 +437,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shantanu2002git/GFG-QS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shantanu2002git/GFG-QS/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
