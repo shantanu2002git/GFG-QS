@@ -161,6 +161,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/shantanu2002git/GFG-QS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
@@ -253,6 +254,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shantanu2002git/GFG-QS/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
