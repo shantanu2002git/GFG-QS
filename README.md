@@ -182,6 +182,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0907-koko-eating-bananas](https://github.com/shantanu2002git/GFG-QS/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/shantanu2002git/GFG-QS/tree/master/0926-find-and-replace-pattern) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
