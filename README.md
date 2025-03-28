@@ -89,6 +89,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0013-roman-to-integer](https://github.com/shantanu2002git/GFG-QS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shantanu2002git/GFG-QS/tree/master/0049-group-anagrams) |
@@ -353,6 +354,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
