@@ -311,6 +311,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -357,6 +358,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
