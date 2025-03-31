@@ -210,6 +210,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shantanu2002git/GFG-QS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2227-sum-of-subarray-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shantanu2002git/GFG-QS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -368,6 +369,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shantanu2002git/GFG-QS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shantanu2002git/GFG-QS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/3447-clear-digits) |
@@ -378,6 +380,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/shantanu2002git/GFG-QS/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
