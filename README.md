@@ -98,6 +98,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0151-reverse-words-in-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
+| [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [0807-custom-sort-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0807-custom-sort-string) |
 | [0858-masking-personal-information](https://github.com/shantanu2002git/GFG-QS/tree/master/0858-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shantanu2002git/GFG-QS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -343,6 +344,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
+| [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -399,6 +401,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0263-ugly-number) |
+| [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/0728-self-dividing-numbers) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
