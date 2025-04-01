@@ -170,6 +170,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
@@ -363,6 +364,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
@@ -403,6 +405,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shantanu2002git/GFG-QS/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
