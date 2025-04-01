@@ -98,6 +98,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0151-reverse-words-in-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [0807-custom-sort-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0807-custom-sort-string) |
 | [0858-masking-personal-information](https://github.com/shantanu2002git/GFG-QS/tree/master/0858-masking-personal-information) |
@@ -250,6 +251,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -363,6 +365,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
@@ -378,6 +381,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
