@@ -317,6 +317,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/shantanu2002git/GFG-QS/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -366,6 +367,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/shantanu2002git/GFG-QS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
@@ -640,6 +642,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shantanu2002git/GFG-QS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
