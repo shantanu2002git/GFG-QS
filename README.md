@@ -192,6 +192,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/shantanu2002git/GFG-QS/tree/master/0926-find-and-replace-pattern) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shantanu2002git/GFG-QS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -275,6 +276,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0807-custom-sort-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0807-custom-sort-string) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shantanu2002git/GFG-QS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -496,6 +498,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shantanu2002git/GFG-QS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shantanu2002git/GFG-QS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shantanu2002git/GFG-QS/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -647,6 +650,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shantanu2002git/GFG-QS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shantanu2002git/GFG-QS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shantanu2002git/GFG-QS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
