@@ -571,6 +571,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
@@ -606,6 +607,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
@@ -659,6 +661,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
@@ -668,6 +671,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
