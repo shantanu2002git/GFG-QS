@@ -608,6 +608,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
@@ -659,6 +660,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 ## Binary Tree
@@ -666,6 +668,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
