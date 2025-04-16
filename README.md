@@ -576,6 +576,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0102-binary-tree-level-order-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
@@ -614,6 +615,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0101-symmetric-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
@@ -671,6 +673,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -684,6 +687,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
