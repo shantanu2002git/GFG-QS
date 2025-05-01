@@ -99,6 +99,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0151-reverse-words-in-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [0807-custom-sort-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0807-custom-sort-string) |
@@ -340,6 +341,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shantanu2002git/GFG-QS/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -578,6 +580,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -618,6 +621,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
@@ -677,6 +681,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
@@ -692,6 +697,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
