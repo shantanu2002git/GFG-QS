@@ -440,6 +440,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -461,6 +462,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/2573-remove-nodes-from-linked-list) |
 ## Dynamic Programming
@@ -478,6 +480,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1170-shortest-common-supersequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -754,6 +757,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 ## Bitmask
 |  |
 | ------- |
