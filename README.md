@@ -457,6 +457,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/shantanu2002git/GFG-QS/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shantanu2002git/GFG-QS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -499,6 +500,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1170-shortest-common-supersequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/shantanu2002git/GFG-QS/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -771,6 +773,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Combinatorics
 |  |
 | ------- |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/shantanu2002git/GFG-QS/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shantanu2002git/GFG-QS/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
