@@ -94,6 +94,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0020-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shantanu2002git/GFG-QS/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
@@ -437,6 +438,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shantanu2002git/GFG-QS/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0202-happy-number) |
@@ -543,6 +545,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/0043-multiply-strings) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shantanu2002git/GFG-QS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1119-robot-bounded-in-circle](https://github.com/shantanu2002git/GFG-QS/tree/master/1119-robot-bounded-in-circle) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shantanu2002git/GFG-QS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
