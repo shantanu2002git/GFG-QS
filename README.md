@@ -444,6 +444,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0202-happy-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/0728-self-dividing-numbers) |
@@ -482,6 +483,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0435-non-overlapping-intervals) |
@@ -593,6 +595,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
