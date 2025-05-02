@@ -254,6 +254,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/shantanu2002git/GFG-QS/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -308,6 +309,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2888-minimum-index-of-a-valid-split](https://github.com/shantanu2002git/GFG-QS/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shantanu2002git/GFG-QS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/shantanu2002git/GFG-QS/tree/master/3321-type-of-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -454,6 +456,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [2610-closest-prime-numbers-in-range](https://github.com/shantanu2002git/GFG-QS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shantanu2002git/GFG-QS/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/shantanu2002git/GFG-QS/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/shantanu2002git/GFG-QS/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
