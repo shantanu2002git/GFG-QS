@@ -65,6 +65,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/shantanu2002git/GFG-QS/tree/master/1502-construct-k-palindrome-strings) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
+| [1752-arithmetic-subarrays](https://github.com/shantanu2002git/GFG-QS/tree/master/1752-arithmetic-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shantanu2002git/GFG-QS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
@@ -218,6 +219,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1524-string-matching-in-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1752-arithmetic-subarrays](https://github.com/shantanu2002git/GFG-QS/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/shantanu2002git/GFG-QS/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shantanu2002git/GFG-QS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -302,6 +304,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1752-arithmetic-subarrays](https://github.com/shantanu2002git/GFG-QS/tree/master/1752-arithmetic-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shantanu2002git/GFG-QS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
