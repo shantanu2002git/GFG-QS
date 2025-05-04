@@ -102,6 +102,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/shantanu2002git/GFG-QS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
@@ -669,6 +670,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shantanu2002git/GFG-QS/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shantanu2002git/GFG-QS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shantanu2002git/GFG-QS/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -691,10 +693,12 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shantanu2002git/GFG-QS/tree/master/0214-shortest-palindrome) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shantanu2002git/GFG-QS/tree/master/0214-shortest-palindrome) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
 ## Divide and Conquer
 |  |
