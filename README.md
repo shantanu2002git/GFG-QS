@@ -194,6 +194,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0455-assign-cookies](https://github.com/shantanu2002git/GFG-QS/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shantanu2002git/GFG-QS/tree/master/0621-task-scheduler) |
@@ -404,6 +405,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/1078-remove-outermost-parentheses) |
@@ -421,6 +423,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
