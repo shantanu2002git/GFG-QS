@@ -175,6 +175,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0056-merge-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shantanu2002git/GFG-QS/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shantanu2002git/GFG-QS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
@@ -400,6 +401,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shantanu2002git/GFG-QS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shantanu2002git/GFG-QS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shantanu2002git/GFG-QS/tree/master/0232-implement-queue-using-stacks) |
@@ -422,6 +424,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shantanu2002git/GFG-QS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0503-next-greater-element-ii) |
