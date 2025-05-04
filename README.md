@@ -218,6 +218,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1468-check-if-n-and-its-double-exist](https://github.com/shantanu2002git/GFG-QS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shantanu2002git/GFG-QS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shantanu2002git/GFG-QS/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1752-arithmetic-subarrays](https://github.com/shantanu2002git/GFG-QS/tree/master/1752-arithmetic-subarrays) |
@@ -549,6 +550,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shantanu2002git/GFG-QS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shantanu2002git/GFG-QS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/shantanu2002git/GFG-QS/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/shantanu2002git/GFG-QS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -586,6 +588,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shantanu2002git/GFG-QS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shantanu2002git/GFG-QS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shantanu2002git/GFG-QS/tree/master/1966-frequency-of-the-most-frequent-element) |
