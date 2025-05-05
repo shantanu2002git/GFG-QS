@@ -504,6 +504,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0435-non-overlapping-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0806-domino-and-tromino-tiling](https://github.com/shantanu2002git/GFG-QS/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1170-shortest-common-supersequence) |
