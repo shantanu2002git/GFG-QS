@@ -198,6 +198,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shantanu2002git/GFG-QS/tree/master/0621-task-scheduler) |
@@ -440,6 +441,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0461-hamming-distance](https://github.com/shantanu2002git/GFG-QS/tree/master/0461-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shantanu2002git/GFG-QS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu2002git/GFG-QS/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -506,6 +508,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0435-non-overlapping-intervals) |
+| [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0806-domino-and-tromino-tiling](https://github.com/shantanu2002git/GFG-QS/tree/master/0806-domino-and-tromino-tiling) |
@@ -530,6 +533,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/shantanu2002git/GFG-QS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shantanu2002git/GFG-QS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -802,6 +806,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Geometry
 |  |
