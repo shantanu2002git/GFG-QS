@@ -103,6 +103,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0151-reverse-words-in-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/shantanu2002git/GFG-QS/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/0402-remove-k-digits) |
@@ -455,6 +456,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shantanu2002git/GFG-QS/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
@@ -485,6 +487,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0050-powx-n](https://github.com/shantanu2002git/GFG-QS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/shantanu2002git/GFG-QS/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shantanu2002git/GFG-QS/tree/master/2573-remove-nodes-from-linked-list) |
@@ -497,6 +500,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shantanu2002git/GFG-QS/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
@@ -792,6 +796,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/shantanu2002git/GFG-QS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 ## Bitmask
