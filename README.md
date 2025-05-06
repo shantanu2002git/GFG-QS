@@ -636,6 +636,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shantanu2002git/GFG-QS/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -648,6 +649,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shantanu2002git/GFG-QS/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -683,6 +685,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shantanu2002git/GFG-QS/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -832,4 +835,8 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shantanu2002git/GFG-QS/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
