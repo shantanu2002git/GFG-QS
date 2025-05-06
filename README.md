@@ -203,6 +203,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shantanu2002git/GFG-QS/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
@@ -551,6 +552,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
@@ -595,6 +597,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 ## Prefix Sum
@@ -631,6 +634,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0279-perfect-squares](https://github.com/shantanu2002git/GFG-QS/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
@@ -675,6 +679,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
