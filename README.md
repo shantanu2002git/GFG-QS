@@ -216,6 +216,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0987-reveal-cards-in-increasing-order](https://github.com/shantanu2002git/GFG-QS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/shantanu2002git/GFG-QS/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/shantanu2002git/GFG-QS/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/1256-rank-transform-of-an-array) |
@@ -553,6 +554,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/shantanu2002git/GFG-QS/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
@@ -636,6 +638,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/shantanu2002git/GFG-QS/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
