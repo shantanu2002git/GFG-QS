@@ -180,6 +180,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0084-largest-rectangle-in-histogram](https://github.com/shantanu2002git/GFG-QS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/shantanu2002git/GFG-QS/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu2002git/GFG-QS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
@@ -550,6 +551,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
@@ -598,6 +600,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
@@ -630,6 +633,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0102-binary-tree-level-order-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
@@ -676,6 +680,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
