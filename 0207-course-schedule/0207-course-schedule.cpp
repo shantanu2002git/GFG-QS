@@ -20,11 +20,13 @@ public:
         }
 
         vector<int> res;
+        int allcource=0;
         while (!q.empty()) {
             int it = q.front();
             q.pop();
             cout<<it<<" ";
             res.push_back(it);
+            allcource++;
             for (int j : adj[it]) {
                 // cout<<in[j]<<<" fs ";
                 in[j]--;
@@ -37,6 +39,6 @@ public:
             }
         }
 
-        return res.size()==n;
+        return allcource==n;
     }
 };
