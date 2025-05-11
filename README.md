@@ -209,6 +209,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/shantanu2002git/GFG-QS/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/shantanu2002git/GFG-QS/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -340,6 +341,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shantanu2002git/GFG-QS/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shantanu2002git/GFG-QS/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -556,6 +558,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/shantanu2002git/GFG-QS/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shantanu2002git/GFG-QS/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -603,6 +606,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/shantanu2002git/GFG-QS/tree/master/2793-count-the-number-of-complete-components) |
 ## Prefix Sum
@@ -643,6 +647,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/shantanu2002git/GFG-QS/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -667,6 +672,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shantanu2002git/GFG-QS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/shantanu2002git/GFG-QS/tree/master/0621-task-scheduler) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shantanu2002git/GFG-QS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shantanu2002git/GFG-QS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -694,6 +700,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shantanu2002git/GFG-QS/tree/master/0801-is-graph-bipartite) |
 | [1722-throne-inheritance](https://github.com/shantanu2002git/GFG-QS/tree/master/1722-throne-inheritance) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shantanu2002git/GFG-QS/tree/master/2201-valid-arrangement-of-pairs) |
