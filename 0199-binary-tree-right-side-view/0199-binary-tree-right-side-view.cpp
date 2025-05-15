@@ -12,29 +12,18 @@
  */
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
+    void call(TreeNode* root, map<int, int>& mp, int lv) {
         if (root == NULL) {
-            return {};
+            return;
         }
+        mp[lv] = root->val;
+        call(root->left,mp, lv + 1);
+        call(root->right,mp, lv + 1);
+    }
+    vector<int> rightSideView(TreeNode* root) {
+        map<int, int> mp; // lvl , node
+        call(root, mp, 0);
         vector<int> res;
-        queue<TreeNode*> q;
-        q.push(root);
-        map<int, int> mp;
-        int lv = 0;
-        while (!q.empty()) {
-            int n = q.size();
-            for (int i = 0; i < n; i++) {
-                auto it = q.front();
-                q.pop();
-                mp[lv] = it->val;
-                  if (it->left) { q.push(it->left); }
-                if (it->right) {
-                    q.push(it->right);
-                }
-            }
-            lv++;
-        }
-
         for (auto it : mp) {
             res.push_back(it.second);
         }
