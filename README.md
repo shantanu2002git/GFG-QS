@@ -699,6 +699,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0207-course-schedule](https://github.com/shantanu2002git/GFG-QS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
@@ -766,6 +767,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
@@ -783,6 +785,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0543-diameter-of-binary-tree) |
@@ -854,4 +857,8 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0207-course-schedule](https://github.com/shantanu2002git/GFG-QS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0210-course-schedule-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
