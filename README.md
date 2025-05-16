@@ -190,6 +190,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shantanu2002git/GFG-QS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/shantanu2002git/GFG-QS/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
@@ -305,6 +306,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0056-merge-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shantanu2002git/GFG-QS/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/shantanu2002git/GFG-QS/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/shantanu2002git/GFG-QS/tree/master/0368-largest-divisible-subset) |
@@ -861,4 +863,8 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shantanu2002git/GFG-QS/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
