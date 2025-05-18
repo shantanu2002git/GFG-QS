@@ -243,6 +243,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shantanu2002git/GFG-QS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/shantanu2002git/GFG-QS/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2107-find-unique-binary-string) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2145-grid-game](https://github.com/shantanu2002git/GFG-QS/tree/master/2145-grid-game) |
@@ -598,6 +599,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shantanu2002git/GFG-QS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shantanu2002git/GFG-QS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/shantanu2002git/GFG-QS/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shantanu2002git/GFG-QS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/shantanu2002git/GFG-QS/tree/master/2551-apply-operations-to-an-array) |
