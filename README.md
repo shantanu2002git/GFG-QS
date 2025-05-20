@@ -284,6 +284,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shantanu2002git/GFG-QS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3541-report-spam-message](https://github.com/shantanu2002git/GFG-QS/tree/master/3541-report-spam-message) |
+| [3639-zero-array-transformation-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3639-zero-array-transformation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -638,6 +639,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3034-points-that-intersect-with-cars](https://github.com/shantanu2002git/GFG-QS/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3639-zero-array-transformation-i) |
 ## Breadth-First Search
 |  |
 | ------- |
