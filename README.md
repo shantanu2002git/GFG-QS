@@ -41,6 +41,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shantanu2002git/GFG-QS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shantanu2002git/GFG-QS/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shantanu2002git/GFG-QS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shantanu2002git/GFG-QS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shantanu2002git/GFG-QS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0142-linked-list-cycle-ii) |
@@ -177,6 +178,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shantanu2002git/GFG-QS/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/shantanu2002git/GFG-QS/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shantanu2002git/GFG-QS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
@@ -561,6 +563,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/shantanu2002git/GFG-QS/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
