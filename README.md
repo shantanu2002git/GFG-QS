@@ -534,6 +534,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [1013-fibonacci-number](https://github.com/shantanu2002git/GFG-QS/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/shantanu2002git/GFG-QS/tree/master/1170-shortest-common-supersequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/shantanu2002git/GFG-QS/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/shantanu2002git/GFG-QS/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
