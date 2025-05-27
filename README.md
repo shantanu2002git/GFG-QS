@@ -183,6 +183,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0056-merge-intervals](https://github.com/shantanu2002git/GFG-QS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shantanu2002git/GFG-QS/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/shantanu2002git/GFG-QS/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shantanu2002git/GFG-QS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
@@ -358,6 +359,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
@@ -578,6 +580,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shantanu2002git/GFG-QS/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
