@@ -197,6 +197,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0216-combination-sum-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shantanu2002git/GFG-QS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shantanu2002git/GFG-QS/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/shantanu2002git/GFG-QS/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
@@ -360,6 +361,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
@@ -584,6 +586,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0079-word-search](https://github.com/shantanu2002git/GFG-QS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shantanu2002git/GFG-QS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shantanu2002git/GFG-QS/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shantanu2002git/GFG-QS/tree/master/0695-max-area-of-island) |
@@ -784,6 +787,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu2002git/GFG-QS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shantanu2002git/GFG-QS/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu2002git/GFG-QS/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shantanu2002git/GFG-QS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/shantanu2002git/GFG-QS/tree/master/1014-k-closest-points-to-origin) |
