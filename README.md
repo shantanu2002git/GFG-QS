@@ -174,6 +174,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0001-two-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0040-combination-sum-ii) |
@@ -355,6 +356,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
