@@ -209,6 +209,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0496-next-greater-element-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shantanu2002git/GFG-QS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu2002git/GFG-QS/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shantanu2002git/GFG-QS/tree/master/0621-task-scheduler) |
@@ -360,6 +361,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/shantanu2002git/GFG-QS/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shantanu2002git/GFG-QS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/shantanu2002git/GFG-QS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0794-swim-in-rising-water) |
