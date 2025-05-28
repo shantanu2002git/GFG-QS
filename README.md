@@ -174,6 +174,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0001-two-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shantanu2002git/GFG-QS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/shantanu2002git/GFG-QS/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shantanu2002git/GFG-QS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/shantanu2002git/GFG-QS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0039-combination-sum) |
@@ -359,6 +360,7 @@ You can clone this repository and navigate to the specific problem directory to 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shantanu2002git/GFG-QS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0240-search-a-2d-matrix-ii) |
