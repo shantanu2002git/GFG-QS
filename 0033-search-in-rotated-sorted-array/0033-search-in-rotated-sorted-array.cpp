@@ -13,7 +13,7 @@ public:
                 if(nums[lw]<=t && t<=nums[md]){
                     hi=md-1;
                 }else{
-                    lw=lw+1;
+                    lw=md+1;
                 }
             }
             else{
