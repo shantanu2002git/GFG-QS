@@ -151,6 +151,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [3451-string-compression-iii](https://github.com/shantanu2002git/GFG-QS/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shantanu2002git/GFG-QS/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/shantanu2002git/GFG-QS/tree/master/3541-report-spam-message) |
+| [3617-find-the-original-typed-string-i](https://github.com/shantanu2002git/GFG-QS/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
 | ------- |
