@@ -364,6 +364,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0033-search-in-rotated-sorted-array](https://github.com/shantanu2002git/GFG-QS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shantanu2002git/GFG-QS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/shantanu2002git/GFG-QS/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shantanu2002git/GFG-QS/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu2002git/GFG-QS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -477,6 +478,7 @@ You can clone this repository and navigate to the specific problem directory to 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/shantanu2002git/GFG-QS/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/shantanu2002git/GFG-QS/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/shantanu2002git/GFG-QS/tree/master/0461-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/shantanu2002git/GFG-QS/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shantanu2002git/GFG-QS/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -805,6 +807,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shantanu2002git/GFG-QS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shantanu2002git/GFG-QS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -824,6 +827,7 @@ You can clone this repository and navigate to the specific problem directory to 
 | [0110-balanced-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu2002git/GFG-QS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu2002git/GFG-QS/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shantanu2002git/GFG-QS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shantanu2002git/GFG-QS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu2002git/GFG-QS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
